@@ -1,6 +1,6 @@
 # Arduino example 1 
 Tutorial 1 - LED  \
-아두이노 보드와 연결된 후 led가 깜박이도록 제작
+아두이노 보드와 연결된 후 led가 3번 깜박이도록 제작
 
 ## code
 ``` from pyfirmata import Arduino,util ```\
