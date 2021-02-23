@@ -1,5 +1,5 @@
 # Arduino example 1 
-Tutorial 1 - LED  \
+Tutorial 1. LED  \
 LED가 3번 깜박이도록 제작
 
 ## code
