@@ -1,6 +1,6 @@
 # Arduino example 1 
 Tutorial 1 - LED  \
-아두이노 보드와 연결된 후 led가 3번 깜박이도록 제작
+LED가 3번 깜박이도록 제작
 
 ## code
 ``` from pyfirmata import Arduino,util ```\
@@ -24,5 +24,4 @@ led가 연결된 13번 핀에 0을 입력시켜서 led를 끄도록 함
 
 ```  time.sleep(1) ```\
 1초동안 기다림
-
 
